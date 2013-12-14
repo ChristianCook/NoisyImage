@@ -35,6 +35,7 @@ $('IMG').noisyImage({
 ````
 
 An example showing all the parameters when used with jquery.Noisy
+See [jQueryNoisy usage](https://github.com/DanielRapp/Noisy#usage) for more.
 
 ````javascript
 $('IMG').noisyImage({
