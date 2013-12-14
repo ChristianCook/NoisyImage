@@ -1,12 +1,5 @@
 /* jquery.noisyimage - v1.0 - Christian Cook - MIT
 https://github.com/ChristianCook/NoisyImage - 14.12.2013 */
- *
- * Copyright 2013, Christian Cook
- * Dual licensed under the MIT and GPL licenses (just like jQuery):
- * http://www.opensource.org/licenses/mit-license.php
- * http://www.gnu.org/licenses/gpl.html
- *
-*/
 
 (function( $ ) {
 var
