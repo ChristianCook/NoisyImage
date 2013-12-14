@@ -16,9 +16,9 @@ You can try the [interactive demo](http://cook.as/noisyImage/).
 
 ## Install
 
-Download the repository and link to the local minimized script:
+Download the script and link to the local script:
 ````html
-<script src="js/jquery.noisyimage.min.js">
+<script src="jquery.noisyimage.min.js">
 ````
 
 ## Usage
