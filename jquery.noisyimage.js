@@ -63,7 +63,7 @@ var
 				'background-image': noiseImg,
 				'opacity': options.opacity
 			});
-console.log(options.scale);
+
 			noise.css({
 				'background-size': options.size*options.scale+'px '+options.size*options.scale+'px',
 				'-moz-animation': options.speed+'s steps(5, end) 0s normal none infinite noise',
