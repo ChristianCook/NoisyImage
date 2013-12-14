@@ -36,8 +36,6 @@ $('IMG').noisyImage({
 
 An example showing all the parameters when used with jquery.Noisy
 
-See [jQueryNoisy usage](https://github.com/DanielRapp/Noisy#usage) for more.
-
 ````javascript
 $('IMG').noisyImage({
     opacity: 0.2,
@@ -52,3 +50,5 @@ $('IMG').noisyImage({
     disableCache: false
 });
 ````
+
+See [jQueryNoisy usage](https://github.com/DanielRapp/Noisy#usage) for information about the jQueryNoisy options.
